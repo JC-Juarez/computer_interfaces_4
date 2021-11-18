@@ -1,3 +1,6 @@
+// Modified by Juan Carlos Juárez
+// Read Number from 0 to 99 and add 1. USB Connection.
+
 /***************************
   MPLAB Harmony Application Source File
   
